@@ -1,8 +1,9 @@
 # The Pan Gu Restaurant Web Site
 
-## A imaginery far east restaurant's web site. Site build by JavaScript "single page application" without any framework like React etc.
+## A imaginery far east restaurant's web site. Site build by Bootstrap 5.0 and JavaScript "single page application" without any framework like React etc.
 ## This project built for my "Üstortam Programlama" course term project. 
 
+### Pages layout's and component's created with Bootstrap 5.0 
 ### Contents in the menu page assigned as objects by JavaScript for country filters.
 ### Objects have Id, title, category, price, img and desc parts.
 ### Buttons created in JavaScript file.
