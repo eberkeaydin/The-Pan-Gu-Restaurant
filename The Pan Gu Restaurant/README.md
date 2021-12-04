@@ -8,4 +8,4 @@
 ### Buttons created in JavaScript file.
 ### Methods like map, reduce are be used.
 
-![plot](asiankitchen.gif)
+<img src="../Pan Gu Restaurant/figures/asiankitchen.gif" alt="Asian Kitchen Gif" style="height: 100px; width:100px;"/>
