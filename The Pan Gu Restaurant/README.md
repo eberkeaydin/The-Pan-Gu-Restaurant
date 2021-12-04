@@ -8,4 +8,4 @@
 ### Buttons created in JavaScript file.
 ### Methods like map, reduce are be used.
 
-![Alt text](The Pan Gu Restaurant/figures/asiankitchen.gif "Title")
+![Alt text](../The Pan Gu Restaurant/figures/asiankitchen.gif "Title")
