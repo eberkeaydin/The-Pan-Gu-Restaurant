@@ -9,4 +9,4 @@
 ### Buttons created in JavaScript file.
 ### Methods like map, reduce are be used.
 
-![asiankitchen](https://user-images.githubusercontent.com/71606941/144713125-bb87d47d-6173-46cb-8f8e-7f751bffdbbd.gif)
+![pangurestaurant](https://user-images.githubusercontent.com/71606941/144714627-7ae3ca57-c5e0-41f4-a4f4-89d784c56fb7.gif)
