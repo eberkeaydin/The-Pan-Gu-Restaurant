@@ -8,4 +8,4 @@
 ### Buttons created in JavaScript file.
 ### Methods like map, reduce are be used.
 
-![plot](../Pan Gu Restaurant/figures/asiankitchen.gif)
+![plot](asiankitchen.gif)
