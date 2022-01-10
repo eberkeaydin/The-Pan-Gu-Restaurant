@@ -1,6 +1,10 @@
 @import "_variables";
 @import "~bootstrap/scss/bootstrap.scss";
 
+.body{
+  background-color: bisque;
+}
+
 *{
     text-align: justify;
 }
