@@ -131,7 +131,7 @@ const menu = [
   
   let mainMenu = (param) => {  // Main menu function ==> all menu items will be printed
       let oldContainer = param.map((item) => {
-          return `<div class="menu-items col-lg-6 col-sm-12">
+          return `<div class="menu-items col-xs-12 col-sm-12 col-lg-6">
                 <img
                   src=${item.img}
                   alt=${item.title}
